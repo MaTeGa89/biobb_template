@@ -123,6 +123,6 @@ biobb_template/notebooks/template/*.*
 
 biobb_template/docs/jupyter/data
 
-# biobb_template/adapters
-# biobb_template/notebooks
-# conda_env
+biobb_template/adapters
+biobb_template/notebooks
+conda_env
